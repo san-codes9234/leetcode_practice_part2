@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0301-remove-invalid-parentheses) |
+| [0344-reverse-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/san-codes9234/hackerrank_practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
