@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/san-codes9234/hackerrank_practice/tree/master/1732-find-the-highest-altitude) |
+| [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0344-reverse-string) |
+| [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
