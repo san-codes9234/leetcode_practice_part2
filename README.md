@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/san-codes9234/hackerrank_practice/tree/master/1732-find-the-highest-altitude) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
