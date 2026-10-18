@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/san-codes9234/hackerrank_practice/tree/master/1732-find-the-highest-altitude) |
 | [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/san-codes9234/hackerrank_practice/tree/master/0292-nim-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -124,4 +127,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
