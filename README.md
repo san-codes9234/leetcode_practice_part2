@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/san-codes9234/hackerrank_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/san-codes9234/hackerrank_practice/tree/master/0292-nim-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/san-codes9234/hackerrank_practice/tree/master/2409-count-days-spent-together) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
 | ------- |
