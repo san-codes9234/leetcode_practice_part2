@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/san-codes9234/hackerrank_practice/tree/master/1732-find-the-highest-altitude) |
+| [2126-destroying-asteroids](https://github.com/san-codes9234/hackerrank_practice/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/san-codes9234/hackerrank_practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
+| [2126-destroying-asteroids](https://github.com/san-codes9234/hackerrank_practice/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0678-valid-parenthesis-string) |
+| [2126-destroying-asteroids](https://github.com/san-codes9234/hackerrank_practice/tree/master/2126-destroying-asteroids) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
