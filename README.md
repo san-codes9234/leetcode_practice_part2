@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/san-codes9234/hackerrank_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/san-codes9234/hackerrank_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/san-codes9234/hackerrank_practice/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/san-codes9234/hackerrank_practice/tree/master/2126-destroying-asteroids) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/san-codes9234/hackerrank_practice/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/san-codes9234/hackerrank_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2126-destroying-asteroids](https://github.com/san-codes9234/hackerrank_practice/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/san-codes9234/hackerrank_practice/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/san-codes9234/hackerrank_practice/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/san-codes9234/hackerrank_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/san-codes9234/hackerrank_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/san-codes9234/hackerrank_practice/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
