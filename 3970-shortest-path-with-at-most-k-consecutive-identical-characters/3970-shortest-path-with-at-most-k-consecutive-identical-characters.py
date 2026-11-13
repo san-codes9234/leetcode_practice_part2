@@ -6,8 +6,6 @@ class Solution:
         graph = defaultdict(list)
         for u, v, w in edges:
             graph[u].append((v, w))
-
-        # dist[node][streak] = min cost
         INF = float('inf')
         dist = [[INF] * (k + 1) for _ in range(n)]
 
