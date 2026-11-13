@@ -9,8 +9,7 @@ class Solution:
         INF = float('inf')
         dist = [[INF] * (k + 1) for _ in range(n)]
 
-        # (cost, node, streak)
-        heap = [(0, 0, 1)]   # start at node 0 with streak=1
+        heap = [(0, 0, 1)]
         dist[0][1] = 0
 
         while heap:
@@ -31,7 +30,3 @@ class Solution:
                     heapq.heappush(heap, (new_cost, v, new_streak))
 
         return -1
-
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
