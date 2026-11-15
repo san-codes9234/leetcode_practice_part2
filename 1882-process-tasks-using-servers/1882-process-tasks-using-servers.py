@@ -10,18 +10,15 @@ class Solution:
         t = 0
 
         for j, duration in enumerate(tasks):
-            t = max(t, j)  # ← advance to task arrival (or stay if already ahead)
+            t = max(t, j)
 
-            # If no free servers, jump to next release
             if not free:
                 t = max(t, busy[0][0])
 
-            # Release all servers free by time t
             while busy and busy[0][0] <= t:
                 ft, w, idx = heapq.heappop(busy)
                 heapq.heappush(free, (w, idx))
 
-            # Assign to best free server
             w, idx = heapq.heappop(free)
             ans.append(idx)
             heapq.heappush(busy, (t + duration, w, idx))
