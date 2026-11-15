@@ -4,10 +4,10 @@ class Solution:
     def assignTasks(self, servers: List[int], tasks: List[int]) -> List[int]:
         free = [(w, i) for i, w in enumerate(servers)]
         heapq.heapify(free)
-        busy = []  # (free_time, weight, index)
+        busy = []
 
         ans = []
-        t = 0  # ← persistent time, never goes backward
+        t = 0
 
         for j, duration in enumerate(tasks):
             t = max(t, j)  # ← advance to task arrival (or stay if already ahead)
