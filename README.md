@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/san-codes9234/hackerrank_practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/san-codes9234/hackerrank_practice/tree/master/0067-add-binary) |
 | [0301-remove-invalid-parentheses](https://github.com/san-codes9234/hackerrank_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/0678-valid-parenthesis-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/san-codes9234/hackerrank_practice/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/san-codes9234/hackerrank_practice/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/san-codes9234/hackerrank_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/san-codes9234/hackerrank_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/san-codes9234/hackerrank_practice/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/san-codes9234/hackerrank_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/san-codes9234/hackerrank_practice/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/san-codes9234/hackerrank_practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/san-codes9234/hackerrank_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
