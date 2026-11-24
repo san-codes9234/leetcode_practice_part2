@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/san-codes9234/hackerrank_practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/san-codes9234/hackerrank_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/san-codes9234/hackerrank_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/san-codes9234/hackerrank_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/san-codes9234/hackerrank_practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/san-codes9234/hackerrank_practice/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/san-codes9234/hackerrank_practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/san-codes9234/hackerrank_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/san-codes9234/hackerrank_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/san-codes9234/hackerrank_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/san-codes9234/hackerrank_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/san-codes9234/hackerrank_practice/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/san-codes9234/hackerrank_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/san-codes9234/hackerrank_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
@@ -272,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/san-codes9234/hackerrank_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/san-codes9234/hackerrank_practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/san-codes9234/hackerrank_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
